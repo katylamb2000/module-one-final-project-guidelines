@@ -51,7 +51,6 @@ end
 main_ingredient = "salt"
 # find_meal(main_ingredient)
 
-p 'eof'
 
 #
 # def print_movies(films_hash)
