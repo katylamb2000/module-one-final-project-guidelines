@@ -1,7 +1,7 @@
 require 'rest-client'
 require 'json'
 require 'pry'
-require 'highline'
+# require 'highline'
 
 # class ApiCommunicator
 #

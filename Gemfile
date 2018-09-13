@@ -6,6 +6,3 @@ gem "sqlite3"
 gem "pry"
 gem "require_all"
 gem "rest-client"
-gem "rake"
-gem "database_cleaner"
-gem 'json'
